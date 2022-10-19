@@ -1,0 +1,281 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  font-size: 62.5%;
+}
+
+nav {
+  display: flex;
+  padding: 2rem;
+  min-height: 10vh;
+  background: #006445
+}
+
+nav ul {
+  display: flex;
+  align-items: center;
+  list-style-type: none;
+}
+nav li {
+  font-size: 1.7rem;
+  padding: 0 2rem 0 2rem;
+}
+nav a {
+  color: white;
+  text-decoration: none;
+
+}
+nav img {
+  width: 8vw;
+  height: 8vh;
+}
+li {
+  text-align: left;
+}
+.css2 {
+ padding-right: 70rem;
+}
+.css3 {
+  color: white;
+}
+.button {
+    background-color: yellow;
+    border: none;
+    color: black;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+li a:hover:not(.active) {
+  color: yellow;
+}
+body {
+  background-color: darkgreen;
+}
+.img1 {
+  width: 400px;
+  margin: 4rem;
+  padding-inline-end: 4rem;
+  float:right;
+  padding-left: 2rem;
+}
+
+h1 {
+  color: white;
+  margin-top: 7rem;
+  margin-left: 10rem;
+  font-size: 600%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.classh1 {
+  color: white;
+  margin-top: 0.0rem;
+  font-size: 600%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.button1 {
+  background-color: yellow;
+  border: none;
+  color: black;
+  padding: 14px 40px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin-left: 10rem;
+  margin-top: 2.8rem;
+}
+.button2 {
+  margin-left: 10rem;
+  margin-top: 1rem;
+}
+.classh2 {
+  color: white;
+  margin-top: 8rem;
+  font-size: 600%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.css4 {
+  color:white;
+  font-size: 250%;
+  margin-top: 2rem;
+  margin-left: 10.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.achtergrondeduarte {
+  background: rgb(0, 100, 69);
+  float: left;
+  width: 50%;
+  min-height: 50rem;
+}
+.css5 {
+  color:white;
+  font-size: 200%;
+  margin-top: 3.5rem;
+  margin-left: 10.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 40rem;
+}
+.css6 {
+  color: lightblue;
+  font-size: 200%;
+  margin-left: 10.5rem;
+  margin-top: 3.5rem;
+  text-decoration: none;
+}
+.css7 {
+ width: 500px;
+ margin-top: 10rem;
+}
+.css8 {
+  color:white;
+  font-size: 250%;
+  margin-top: 3.5rem;
+  margin-left: 10.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.css9 {
+  color:white;
+  font-size: 200%;
+  margin-top: 3.5rem;
+  margin-left: 10.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 40rem;
+}
+.css10 {
+  width: 500px;
+}
+.achtergrondopleidingswijzer {
+  background-color: black;
+}
+.css11 {
+  color:white;
+  font-size: 270%;
+  margin-top: 3.5rem;
+  margin-left: 10.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 50rem;
+}
+.css12 {
+  color:white;
+  font-size: 200%;
+  margin-top: 3.5rem;
+  margin-left: 10.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 50rem;
+}
+.css13 {
+  margin-left: 10.5rem;
+  margin-top: 5rem;
+  width: 30rem;
+}
+.achtergrondsoftware {
+  background-color: darkgreen;
+}
+.css14 {
+  color: white;
+  margin-top: 8rem;
+  font-size: 600%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.css15 {
+  color: white;
+  font-size: 250%;
+  margin-top: 3.5rem;
+  margin-left: 10.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.css16 {
+  color: white;
+  font-size: 200%;
+  margin-top: 3.5rem;
+  margin-left: 10.5rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  width: 40rem;
+}
+.css17 {
+  width: 500px;
+  margin-left: 10.5rem;
+  margin-top: 5rem;
+} 
+.achtergrondcanvas {
+  background-color: rgb(0, 100, 69);
+}
+.css18 {
+  float: left;
+  width: 50%;
+  margin-left: 10rem;
+  width: 500px;
+  margin-top: 4rem;
+}
+.css19 {
+  color: white;
+  margin-top: 14rem;
+  padding-right: 10%;
+  padding-left: 50%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.css20 {
+  float: right;
+  width: 50%;
+  width: 500px;
+  margin-right: 10rem;
+  margin-top: 16rem;
+}
+.css21 {
+  color: white;
+  margin-top: 26rem;
+  padding-left: 10%;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.css22 {
+  float: left;
+  width: 50%;
+  margin-left: 10rem;
+  width: 500px;
+  margin-top: 20rem;
+}
+.css23 {
+  color: white;
+  margin-top: 30rem;
+  padding-right: 10%;
+  padding-left: 50%;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
+.css24 {
+  color: yellow;
+  margin-top: 21rem;
+  margin-left: 10rem;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  
+}
+.css25 {
+  color: white;
+  margin-left: 10rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-top: 2rem;
+}
+.css26 {
+  color: yellow;
+  margin-top: 5rem;
+  margin-left: 10rem;
+  font-size: 20px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.css27 {
+  color: white;
+  margin-left: 10rem;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-top: 2rem;
+}
